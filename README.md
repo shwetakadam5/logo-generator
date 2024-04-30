@@ -52,6 +52,7 @@ https://github.com/shwetakadam5/logo-generator
 
 **Link for the functionality demo :**
 Quick Demo (Important):
+https://drive.google.com/file/d/1GhrhuFVs90pUC-1nVJlkTGnpLqt56smA/view?usp=drive_link
 
 
 ## UsageAndTest Screenshots :
