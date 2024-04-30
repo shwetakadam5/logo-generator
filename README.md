@@ -12,6 +12,7 @@
 - [Installation](#installation)
 - [User Story](#user-story)
 - [Usage](#usage)
+- [Usage & Tests](#usageandtest-screenshots)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Tests](#tests)
 - [Credits](#credits)
@@ -53,11 +54,43 @@ https://github.com/shwetakadam5/logo-generator
 Quick Demo (Important):
 
 
+## UsageAndTest Screenshots :
 
-Usage Screenshots :
+#### 1. ****Logo :Circle generated with details provided in the command line:****
 
-#### 1. ****Logo generated with details provided in the command line:****
+![Image Unavailable](./assets/images/logo_generator_Circle.jpg) 
 
+#### 2. ****Logo :Square generated with details provided in the command line:****
+
+![Image Unavailable](./assets/images/logo_generator_Square.jpg) 
+
+#### 3. ****Logo :Triangle generated with details provided in the command line:****
+
+![Image Unavailable](./assets/images/logo_generator_Triangle.jpg) 
+
+#### 4. ****Logo :SVG Dimensions 300 x 250  generated with details provided in the command line:****
+
+![Image Unavailable](./assets/images/logo_generator_SVGDimensions.jpg) 
+
+#### 5. ****Error 1 : Text is required and can be upto three characters:****
+
+![Image Unavailable](./assets/images/logo_generator_error1.jpg)
+
+#### 6. ****Error 2 : Text and Shape color should be a valid color keyword or 6 character hexadecimal colorcode or 3 character hexadecimal colorcode****
+
+![Image Unavailable](./assets/images/logo_generator_error2.jpg) 
+
+#### 7. ****Shapes List 3 : User is presented with shape choices "Circle, Triangle and Square"****
+
+![Image Unavailable](./assets/images/logo_generator_shapesList.jpg) 
+
+#### 8. ****On Successful generation of logo.svg file : message shown on the console:****
+
+![Image Unavailable](./assets/images/logo_generator_successfulConsoleMsg.jpg) 
+
+#### 9. ****Error 3 : If the svg generation folder path is unavailable or incorrect then error displayed  ****
+
+![Image Unavailable](./assets/images/logo_generator_error3.jpg) 
 
 ## Acceptance-Criteria
 
@@ -94,12 +127,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ├── package.json
 └── README.md           // App description, link to video, setup and usage instructions           
 ```
-
-## Tests
-
-### Test1 : 
-
-
 
 ## Credits
 
