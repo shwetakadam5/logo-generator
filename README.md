@@ -127,6 +127,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ├── package.json
 └── README.md           // App description, link to video, setup and usage instructions           
 ```
+## Tests 
+
+Unit Testing was done using JEST
+
+![Image Unavailable](./assets/images/logo_generator_Jest_UnitTestingResultjpg.jpg) 
+
 
 ## Credits
 
